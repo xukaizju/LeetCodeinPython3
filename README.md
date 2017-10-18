@@ -1,2 +1,3 @@
 # LeetCodeinPython3
-LeetCodeTrain
+List
+#1 Two Sum
