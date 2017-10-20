@@ -5,3 +5,4 @@
 + #7 Reverse Integer
 + #9 Palindrome Number
 + #13 Roman to Integer
++ #27 Remove Element
