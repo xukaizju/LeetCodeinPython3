@@ -7,4 +7,5 @@
 + #9 Palindrome Number
 + #13 Roman to Integer
 + #21 Merge Two Sorted Lists
++ #22 Generate Parentheses
 + #27 Remove Element
